@@ -8,10 +8,7 @@ stuff i use: python, rust, solidity, javascript, typescript, react, next.js, nod
 ![github stats](https://github-readme-stats.vercel.app/api?username=plawlost&show_icons=true&theme=radical)  
 
 # latest takes  
-unscripted on twitter: [@plawlost](https://twitter.com/plawlost)
-
-# visit count  
-![visit count](https://visitcount.itsvg.in)  
+unscripted on x: [@plawlost](https://twitter.com/plawlost)
 
 # the mission  
 create what’s next. ditch the rules. keep moving.  
