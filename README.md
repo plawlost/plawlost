@@ -8,8 +8,12 @@ stuff i use: python, rust, solidity, javascript, typescript, react, next.js, nod
 ![github stats](https://github-readme-stats.vercel.app/api?username=plawlost&show_icons=true&theme=radical)  
 
 # latest takes  
-unscripted on x: [@plawlost](https://gtce.itsvg.in/api?username=plawlost)
+unscripted on x: 
 
+[![](https://gtce.itsvg.in/api?username=plawlost)](https://x.com/plawlost)
+
+
+[![](https://visitcount.itsvg.in/api?id=plawlost&icon=2&color=0)](https://visitcount.itsvg.in)
 
 # the mission  
 create what’s next. ditch the rules. keep moving.  
